@@ -1,7 +1,7 @@
 # Customer Support AI Agents - Multi-Agent System
 
 ## Project Overview
-This project is a **multi-agent AI-powered customer support system** built using **CrewAI**. It features two AI agents:
+This project is a **multi-agent AI-powered customer support system** built using **CrewAI**. It features two AI agents who works collaboratively:
 
 1. **Senior Support Representative** 
    - Handles customer queries by scraping data from the website(we need to provide the proper website) and responds.
